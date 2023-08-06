@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+    padding: 100px;
+    background-color: #668955;
+}
+
+input{
+    border-radius: 2px;
+    border: none;
+    background: #e1e9e7;
+    font-size:30px;
+    height: 60px;
+    width: 450px;
+}
+
+button{
+    border-radius: 2px;
+    border: none;
+    font-size: 30px;
+    background: #9ba0a5;
+    width: 102px;
+    height: 90px;
+    margin: 5px;
+}
+
+.calculator{ 
+    /* border: 4px solid #13695d; */
+    background-color: #98ccd9;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+
+.operator{
+    background-color: #bee3aa;
+}
+#clear{
+    background-color: #e49393;
+}
